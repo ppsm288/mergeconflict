@@ -1,12 +1,5 @@
-public class GreetingApp {
+public class HelloWorld {
     public static void main(String[] args) {
-        greetWorld();
-    }
-
-    private static void greetWorld() {
-        String greeting = "Hello, World!";
-        System.out.println(greeting);
+        System.out.println("Hello, World!");
     }
 }
-
-  
